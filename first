@@ -1,2 +1,7 @@
 this is my first
+<<<<<<< HEAD
 this is modified in master
+=======
+this is my modified file
+
+>>>>>>> dev
